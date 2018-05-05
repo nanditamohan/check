@@ -7,7 +7,7 @@ HackDev Project
 * Team Members: Nandita Mohan (nkm39), Garima Kapila (gk347), Sahithi Kalvakota (sk2679), Riddhima Narravula (rrn23)
 
 * Link(s) to public repos: 
-for iOS: https://github.com/sahithi-kal/check
+for iOS: https://github.com/nanditamohan/check
 For Backend: https://github.com/gkapila/Check-Backend
 
 * README with Screenshots: https://docs.google.com/document/d/1nRp9endIqOQejEdbDlT23pqAxqlDZzgwGucwGXO5aWY/edit?usp=sharing
